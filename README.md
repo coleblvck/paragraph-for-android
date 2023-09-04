@@ -1,6 +1,6 @@
 # Paragraph For Android
 
-This is an android client for [Paragraph](https://github.com/coleblvck/paragraph): A different kind of social media built with Flutter and Django.
+This is the android client for [Paragraph](https://github.com/coleblvck/paragraph): A different kind of social media built with Flutter and Django.
 
  
 ---
