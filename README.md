@@ -20,11 +20,11 @@ This is the android client for [Paragraph](https://github.com/coleblvck/paragrap
 
 ## Screenshots:
 
-![Screenshot](https://coleblvck.com/assets/images/paragraph/screenshots/screenshot1.png)
-![Screenshot](https://coleblvck.com/assets/images/paragraph/screenshots/screenshot2.png)
-![Screenshot](https://coleblvck.com/assets/images/paragraph/screenshots/screenshot3.png)
-![Screenshot](https://coleblvck.com/assets/images/paragraph/screenshots/screenshot4.png)
-![Screenshot](https://coleblvck.com/assets/images/paragraph/screenshots/screenshot5.png)
+![Screenshot](https://github.com/coleblvck/paragraph-for-android/assets/screenshots/screenshot1.png)
+![Screenshot](https://github.com/coleblvck/paragraph-for-android/assets/screenshots/screenshot2.png)
+![Screenshot](https://github.com/coleblvck/paragraph-for-android/assets/screenshots/screenshot3.png)
+![Screenshot](https://github.com/coleblvck/paragraph-for-android/assets/screenshots/screenshot4.png)
+![Screenshot](https://github.com/coleblvck/paragraph-for-android/assets/screenshots/screenshot5.png)
 
 
 
